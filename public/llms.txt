@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://grizi-shop-d7553e7b.zappy5.app
+https://example.com
 חנות החולצות המובילה בישראל לאוהדי כדורגל וכדורסל. גלו קולקציות ענק של חולצות כדורגל, חולצות כדורסל ומרצ&#39;נדייז עדכני מברצלונה, מכבי תל אביב וה-NBA. הצטרפו למועדון האלופים עוד היום!
 
 ### קולקציות
-https://grizi-shop-d7553e7b.zappy5.app/collections
+https://example.com/collections
 דפדפו בין כל הקולקציות הבלעדיות של Grizi Shop. מחולצות כדורגל מכבי תל אביב ועד חולצות קבוצות כדורגל אירופאיות, מצאו את הפריט המושלם שיהפוך אתכם לאוהד הכי בולט ביציע. התחילו לבחור עכשיו!
 
 ### אודות
-https://grizi-shop-d7553e7b.zappy5.app/about
+https://example.com/about
 Grizi Shop נולדה מאהבה אמיתית למגרש. אנחנו מביאים לאוהדים ואתלטים את החולצות הכי נחשקות בעולם הכדורגל והכדורסל, תוך הקפדה על איכות ושירות ללא פשרות. הכירו את האנשים מאחורי התשוקה שלכם.
 
 ### צור קשר
-https://grizi-shop-d7553e7b.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על מידות, משלוחים או שאתם מחפשים חולצה של ברצלונה? צוות Grizi Shop זמין לעזור לכם למצוא בדיוק את מה שאתם צריכים. צרו קשר ונחזור אליכם במהירות עם חיוך.
 
 ### Products
-https://grizi-shop-d7553e7b.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Grizi Shop
 
 ### Cart
-https://grizi-shop-d7553e7b.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://grizi-shop-d7553e7b.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://grizi-shop-d7553e7b.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://grizi-shop-d7553e7b.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://grizi-shop-d7553e7b.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://grizi-shop-d7553e7b.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Grizi Shop
 
 ### Category
-https://grizi-shop-d7553e7b.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Grizi Shop
 
 ### תודה על פנייתך | Grizi Shop
-https://grizi-shop-d7553e7b.zappy5.app/thank-you
+https://example.com/thank-you
 Grizi Shop - תודה על פנייתך | Grizi Shop
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://grizi-shop-d7553e7b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://grizi-shop-d7553e7b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://grizi-shop-d7553e7b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -104,8 +104,8 @@ Sports Apparel E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://grizi-shop-d7553e7b.zappy5.app/sitemap.xml
-- Robots: https://grizi-shop-d7553e7b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://grizi-shop-d7553e7b.zappy5.app/llms-full.txt
-- Products (JSON): https://grizi-shop-d7553e7b.zappy5.app/products.json
-- Products (Google Merchant RSS): https://grizi-shop-d7553e7b.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
