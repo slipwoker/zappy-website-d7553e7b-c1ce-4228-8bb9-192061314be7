@@ -1,8 +1,49 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-30T06:18:47.506Z",
+  "generated_at": "2026-06-30T06:31:05.334Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 2,
+  "products": [
+    {
+      "id": "0f9f6729-a5c2-40c0-bd35-5423b2d03e63",
+      "slug": "lygh-sprdyt-copy-v0b4pe",
+      "name": "ליגה ספרדית🇪🇦 (Copy)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/lygh-sprdyt-copy-v0b4pe",
+      "categories": [],
+      "updated_at": "2026-06-30T06:30:01.735Z"
+    },
+    {
+      "id": "736120a2-8912-483e-8b80-6d16b3a8b212",
+      "slug": "lygh-sprdyt-i9sr7f",
+      "name": "ליגה ספרדית🇪🇦",
+      "name_translations": {},
+      "description": "",
+      "short_description": "https://l.wl.co/l?u=https%3A%2F%2Fjerseyxie.x.yupoo.com",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/lygh-sprdyt-i9sr7f",
+      "categories": [],
+      "updated_at": "2026-06-30T06:29:54.270Z"
+    }
+  ]
 }

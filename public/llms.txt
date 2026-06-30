@@ -76,7 +76,18 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 2**
+
+### ליגה ספרדית🇪🇦 (Copy)
+https://example.com/product/lygh-sprdyt-copy-v0b4pe
+- Price: 0.00 ILS
+- Availability: In stock
+
+### ליגה ספרדית🇪🇦
+https://example.com/product/lygh-sprdyt-i9sr7f
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: https://l.wl.co/l?u=https%3A%2F%2Fjerseyxie.x.yupoo.com
 
 ---
 

@@ -4,6 +4,28 @@
     <title>Grizi Shop</title>
     <link>https://example.com</link>
     <description>Product feed for Grizi Shop</description>
-    <lastBuildDate>Tue, 30 Jun 2026 06:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 06:31:05 GMT</lastBuildDate>
+    <item>
+      <g:id>0f9f6729-a5c2-40c0-bd35-5423b2d03e63</g:id>
+      <g:title>ליגה ספרדית🇪🇦 (Copy)</g:title>
+      <g:description>ליגה ספרדית🇪🇦 (Copy)</g:description>
+      <g:link>https://example.com/product/lygh-sprdyt-copy-v0b4pe</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Grizi Shop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>736120a2-8912-483e-8b80-6d16b3a8b212</g:id>
+      <g:title>ליגה ספרדית🇪🇦</g:title>
+      <g:description>https://l.wl.co/l?u=https%3A%2F%2Fjerseyxie.x.yupoo.com</g:description>
+      <g:link>https://example.com/product/lygh-sprdyt-i9sr7f</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Grizi Shop</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
